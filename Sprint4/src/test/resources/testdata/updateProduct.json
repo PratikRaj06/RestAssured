@@ -1,0 +1,12 @@
+{
+    "positive": {
+        "id": 2,
+        "name": "Shirt",
+        "amount": 4500
+    },
+    "negative": {
+        "id": -2,
+        "name": "",
+        "amount": -200
+    }
+}
